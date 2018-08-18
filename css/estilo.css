@@ -1,0 +1,42 @@
+.tabla1{
+    margin: 40px;
+}
+table{
+    width:100%;
+  /*  margin:10%;*/
+    right: 40px;
+
+}
+th{
+    background: black;
+    color:white;
+    padding: 10px 20px;
+    text-align: left;
+}
+td{
+    padding:20px;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+}
+table{
+    border: 1px solid black;
+    border-collapse: unset;
+}
+.tabla1 .button{
+    border: none;
+    background:#007DBF;
+    color: white;
+    border-radius: 3px;
+    font-size: 25px;
+}
+.Elemento{
+    background-color: #8CC780;
+    text-align: center;
+}
+.SectElementos .campo{
+    margin: 10px;
+
+    
+}
